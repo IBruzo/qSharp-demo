@@ -10,7 +10,7 @@ import Std.Canon.*;
 operation Main() : (Int, Int, Int, Int) {
     mutable numOnesQ1 = 0;
     mutable numOnesQ2 = 0;
-    let count = 1000;
+    let count = 2;
     let initial = Zero;
 
     // allocate the qubits
